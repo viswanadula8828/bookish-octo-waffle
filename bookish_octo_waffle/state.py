@@ -4,7 +4,7 @@ import os
 import openai
 
 
-openai.api_key = "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"
+openai.api_key = ""
 
 
 class State(rx.State):
